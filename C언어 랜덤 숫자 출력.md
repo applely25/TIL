@@ -31,11 +31,9 @@ __특정한 범위의 값을 랜덤하게 출력할 경우 __
 
 ```c
 #include<stdio.h>
-
 #include<stdlib.h>
-
 #include<time.h>
-
+	
 int main(){
 
 	int per = 0, com;
