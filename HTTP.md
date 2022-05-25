@@ -35,8 +35,7 @@
 - 변조 가능
 
 **HTTP단점을 해결하기 위한 암호화 방식**
-
-![img1.daumcdn.png](HTTP%208a5ba9aac10a4e41a4ee75d0ad7d59fe/img1.daumcdn.png)
+![HTTP_codeKey](https://user-images.githubusercontent.com/102589413/170287680-a79c18ab-bf1e-4872-8a1e-d39fe06fe291.png)
 
 - 공개키 방식
     
@@ -82,7 +81,7 @@
         
         - 예시는 지금 비어 있음
     
-    ![HTTP_Request.png](HTTP%208a5ba9aac10a4e41a4ee75d0ad7d59fe/HTTP_Request.png)
+    ![HTTP_Request](https://user-images.githubusercontent.com/102589413/170287682-eda477db-787e-41e5-87f4-9e0107c3ea3d.png)
     
 
 **Response (응답)**
@@ -121,4 +120,4 @@
         응답 메시지에 HTML이 담겨 있는데 이 HTML을 받아 브라우저가 화면에 렌더링함
         
     
-    ![HTTP_Response.png](HTTP%208a5ba9aac10a4e41a4ee75d0ad7d59fe/HTTP_Response.png)
+    ![HTTP_Response](https://user-images.githubusercontent.com/102589413/170287684-ee4486b2-b413-4de2-8b37-22caf418d701.png)
