@@ -12,11 +12,6 @@
 
 → 쉬운 확장이 가능한 프로토콜
 
-**HTTP 동작**
-
-- 요청(request) : client → server
-- 응답(response) : server → client
-
 **HTTP 특징**
 
 - TCP / IP 이용하는 응용 프로토콜
@@ -47,6 +42,10 @@
     
     암호화를 하는 키와 복호화를  하는 키가 동일
     
+**HTTP 동작**
+
+- 요청(request) : client → server
+- 응답(response) : server → client
 
 **Request (요청)**
 
