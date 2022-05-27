@@ -94,8 +94,8 @@
 - **예시**
     
     ```jsx
-    HTTP/1.1 200 OK														// 시작줄
-    Connection: keep-alive												 // 헤더
+    HTTP/1.1 200 OK										// 시작줄
+    Connection: keep-alive								 // 헤더
     Content-Encoding: gzip												 
     Content-Length: 35653
     Content-Type: text/html;
