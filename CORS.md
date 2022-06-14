@@ -10,7 +10,8 @@
     
     ---
     
-    ![URL 구조](CORS%2012a389191ada47a89d8846d48be17c4a/Untitled.png)
+    ![Untitled](https://user-images.githubusercontent.com/102589413/173551275-eb78ef78-d249-4f15-bfc6-545976d252ac.png)
+
     
     URL 구조
     
