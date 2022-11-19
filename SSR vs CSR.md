@@ -10,7 +10,7 @@
 
 서버는 요청을 받으면 클라이언트에 HTML과 JS를 보내줌 → 클라이언트가 받아 렌더링
 
-![img1.daumcdn.png](SSR%20CSR%201ec8cb53617e4461a5eda4f1377962ad/img1.daumcdn.png)
+![img1 daumcdn](https://user-images.githubusercontent.com/102589413/202856226-488a2552-f688-4fd3-b5cd-743b7f376a11.png)
 
 1. user가 website에 요청 보냄
 2. CDN이 HTML 파일과 JS로 접근할 수 있는 링크를 클라이언트로 보냄
@@ -38,7 +38,7 @@
 
 서버쪽에서 렌더링 준비를 끝마친 상태로 클라이언트에 전달하는 방식
 
-![img1.daumcdn.png](SSR%20CSR%201ec8cb53617e4461a5eda4f1377962ad/img1.daumcdn%201.png)
+![img1 daumcdn 1](https://user-images.githubusercontent.com/102589413/202856236-c06c51e8-b267-4fb1-93c0-d9e9cdfad64b.png)
 
 1. user가 website에 요청을 보냄
 2. 서버는 ‘Ready to Render’(즉시 렌더링 가능한 html파일)을 만듬
