@@ -102,14 +102,12 @@ Hello, world!
 </html>렌더트리
 ```
 
-<img width="238" alt="-9" src="https://user-images.githubusercontent.com/102589413/203024472-a02eebc1-eeca-40f2-94b8-62f31aec57c7.png">
-	
+<img width="238" alt="-9" src="https://user-images.githubusercontent.com/102589413/203024472-a02eebc1-eeca-40f2-94b8-62f31aec57c7.png">	
 DOM
 
-<img width="225" alt="-8" src="https://user-images.githubusercontent.com/102589413/203024467-7a4d7b34-c36a-46a3-9c0c-f89bfbeffa62.png">
-	
+<img width="225" alt="-8" src="https://user-images.githubusercontent.com/102589413/203024467-7a4d7b34-c36a-46a3-9c0c-f89bfbeffa62.png">	
 렌더 트리
----
+
 DOM은 p 포함
 렌더 트리 p 포함 X
 
