@@ -47,8 +47,8 @@ DOM 개체구조 → 노드 트리 ( 하나의 부모 줄기가 여러개의 나
 </html>
 ```
 
-![-3.png](DOM%202b6f4c0f2b0842ada7889e5525fa77bb/-3.png)
-
+<img width="260" alt="-3" src="https://user-images.githubusercontent.com/102589413/203024461-b345c666-3dec-4299-aa9d-57a4d977f503.png">
+	
 ## DOM이 아닌 것
 
 ### HTML
@@ -69,8 +69,8 @@ Hello, world!
 </html>
 ```
 
-![-5.png](DOM%202b6f4c0f2b0842ada7889e5525fa77bb/-5.png)
-
+<img width="187" alt="-5" src="https://user-images.githubusercontent.com/102589413/203024463-e1f39bed-9805-4daf-b417-9e8023b47813.png">
+	
 1. **********************************************************************************************자바스크립트에 의해 DOM이 수정될 경우**********************************************************************************************
     
     DOM은 HTML 문서의 내용을 볼 수 있는 인터페이스 역할 + 동적 자원이 되어 수정 할 수 있음
@@ -102,17 +102,16 @@ Hello, world!
 </html>렌더트리
 ```
 
-![DOM](DOM%202b6f4c0f2b0842ada7889e5525fa77bb/-9.png)
-
+<img width="238" alt="-9" src="https://user-images.githubusercontent.com/102589413/203024472-a02eebc1-eeca-40f2-94b8-62f31aec57c7.png">
+	
 DOM
 
-![렌더 트리](DOM%202b6f4c0f2b0842ada7889e5525fa77bb/-8.png)
-
+<img width="225" alt="-8" src="https://user-images.githubusercontent.com/102589413/203024467-7a4d7b34-c36a-46a3-9c0c-f89bfbeffa62.png">
+	
 렌더 트리
-
-DOM은 <p> 포함
-
-렌더 트리 <p> 포함 X
+---
+DOM은 p 포함
+렌더 트리 p 포함 X
 
 ### 개발도구
 
@@ -126,7 +125,7 @@ but, 기술적으로 DOM의 일부는 아님
 
 DOM은 원본 HTML문서로부터 빌드 되고, 요소에 적용되는 스타일을 포함하지 않기 때문임
 
-![Untitled](DOM%202b6f4c0f2b0842ada7889e5525fa77bb/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/102589413/203024475-f9110b5f-d9bc-439e-951b-424b5112142f.png)
 
 가성요소는 DOM의 일부가 아니기때문에 자바스크립트에 의해 수정 X
 
