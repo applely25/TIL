@@ -141,7 +141,7 @@ html 파일에서
     
     📖 DOCTYPE : 문서의 유형을 알려주기 위해 사용
     
-- <html>…</html>
+- < html >…< /html >
     
     (root element)
     
@@ -156,7 +156,7 @@ html 파일에서
 
 ---
 
-- <head>…</head>
+- < head >…< /head >
     
     해당 문서에 대한 메타데이터(metadata)의 집합을 정의할때 사용
     
